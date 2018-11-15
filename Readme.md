@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Contacts.cs](./CS/WinWebSolution.Module/Contacts.cs) (VB: [Contacts.vb](./VB/WinWebSolution.Module/Contacts.vb))
+* [Documents.cs](./CS/WinWebSolution.Module/Documents.cs) (VB: [Documents.vb](./VB/WinWebSolution.Module/Documents.vb))
+<!-- default file list end -->
 # How to override properties of business objects (Example)
 
 
