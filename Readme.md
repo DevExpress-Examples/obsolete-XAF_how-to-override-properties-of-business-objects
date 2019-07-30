@@ -6,7 +6,7 @@
 <!-- default file list end -->
 # How to override properties of business objects (Example)
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e1753)**
+**[[Run Online]](https://codecentral.devexpress.com/e1753/)**
 <!-- run online end -->
 
 
